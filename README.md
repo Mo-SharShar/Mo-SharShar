@@ -6,7 +6,7 @@
 
 **Cloud Operations · Kubernetes · Observability · DevOps**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-sharshar-958714379/)
 [![GitHub](https://img.shields.io/badge/GitHub-Mo--SharShar-181717?style=flat&logo=github&logoColor=white)](https://github.com/Mo-SharShar)
 
 </div>
